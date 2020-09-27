@@ -3,11 +3,11 @@ body{
     background-image: url(img/bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-origin: border-box; 
+    background-origin: border-box;  
 }
 
 .card{
-    width: 50%;
+    width: 80%;
     margin: 10em auto;
     padding: 3em;
 }
